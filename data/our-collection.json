@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Lord of the Rings: Card Game",
+		"description": "A cooperative living card game set in J.R.R. Tolkien's iconic Middle-earth. Players work together to complete a series of narrative-driven quests. Each player controls heroes and constructs a deck to face challenges, including combat, questing, and overcoming treacherous encounters. The game is praised for its thematic depth, strategic deck-building, and the ability to customize and expand one's game experience.",
+		"genre": "Cooperative",
+		"time": "<2 hrs",
+		"players": "1 to 4",
+		"difficulty": 3,
+		"image": "https://picsum.photos/1000/1000"
+	},
+	{
+		"name": "demo: Card Game",
+		"description": "A cooperative living card game set in J.R.R. Tolkien's iconic Middle-earth. Players work together to complete a series of narrative-driven quests. Each player controls heroes and constructs a deck to face challenges, including combat, questing, and overcoming treacherous encounters. The game is praised for its thematic depth, strategic deck-building, and the ability to customize and expand one's game experience.",
+		"genre": "Abstrct",
+		"time": "5 hrs",
+		"players": "1 to 4",
+		"difficulty": 3,
+		"image": "https://picsum.photos/1000/1002"
+	},
+	{
+		"name": "demo1: Card Game",
+		"description": "A cooperative living card game set in J.R.R. Tolkien's iconic Middle-earth. Players work together to complete a series of narrative-driven quests. Each player controls heroes and constructs a deck to face challenges, including combat, questing, and overcoming treacherous encounters. The game is praised for its thematic depth, strategic deck-building, and the ability to customize and expand one's game experience.",
+		"genre": "Abstrc2t",
+		"time": "5 hrs",
+		"players": "1 to 4",
+		"difficulty": 4,
+		"image": "https://picsum.photos/1000/1001"
+	},
+	{
+		"name": "demo2: Card Game",
+		"description": "A cooperative living card game set in J.R.R. Tolkien's iconic Middle-earth. Players work together to complete a series of narrative-driven quests. Each player controls heroes and constructs a deck to face challenges, including combat, questing, and overcoming treacherous encounters. The game is praised for its thematic depth, strategic deck-building, and the ability to customize and expand one's game experience.",
+		"genre": "Abstrct",
+		"time": "5 hrs",
+		"players": "7 to 10",
+		"difficulty": 5,
+		"image": "https://picsum.photos/1000/1003"
+	}
+]

@@ -1,0 +1,133 @@
+.info-div h2, .info-div p, .info-div button {
+  margin: 10px 0;
+}
+
+.info-div button {
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+@media screen and (min-width: 768px) {
+  .image-div{
+    width: 45%;
+  }
+  .info-div{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    justify-items: center;
+     width: 45%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .image-div{
+    width: 100%;
+  }
+  .info-div{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-items: center;
+    padding: 5px;
+  }
+
+}
+.navtabs {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  border-radius: 8px;
+  padding: 10px 20px;
+  position: relative;
+}
+.navtab {
+  margin: 0 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: #333;
+  transition: color 0.3s;
+}
+.navtab:hover {
+  color: orange;
+}
+.navtab.active {
+  color: orange;
+  font-weight: 600;
+}
+.underline {
+  position: absolute;
+  bottom: 0;
+  height: 3px;
+  background: orange;
+  transition: left 0.3s ease, width 0.3s ease;
+}
+.content {
+  display: none;
+  padding: 100px 20px 20px;
+  max-width: 800px;
+  text-align: center;
+}
+.content.active {
+  display: block;
+}
+
+.horizontal_rule{
+  border: 1px solid;
+  border-color: grey;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.display-none{
+  display: none;
+}
+.display-flex{
+  display: flex;
+}
+
+.summer-caarnival-heading1{
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+.summer-caarnival-mini-description{
+  font-size: 1rem;
+  padding-bottom: 10px;
+}
+.summer-caarnival-price-wrapper{
+  display: flex;
+  flex-wrap:wrap;
+  gap: 10px;
+  border: 1px solid;
+  border-radius: 15px;
+  width: fit-content;
+  padding: 10px;
+  margin: 0px 0px 20px 0px;
+}
+.vertical-line{
+  border: 1px solid;
+  height: inherit;
+}
+.summer-caarnival-price-description{
+  justify-items: center;
+  justify-content: center;
+}
+
+.summer-caarnival-heading2{
+  font-size: 1.5rem;
+  padding-bottom: 0px;
+}
+
+.summer-caarnival-description p {
+  margin-left: 0px;
+}
