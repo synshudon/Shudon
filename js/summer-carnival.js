@@ -7,7 +7,7 @@ let currentlyActivated_filter = null;
 
 async function add_upcoming_events(){
 	try{
-		const data = await fetch('/data/summer_carnival.json');
+		const data = await fetch('data/summer_carnival.json');
 		const events = await data.json();
 		if (!events.length > 0){
 	        upcoming_events.innerHTML = `<h1 style="text-align: center;">Nothing to show</h1>`;

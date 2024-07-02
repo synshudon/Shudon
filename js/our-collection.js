@@ -69,7 +69,7 @@ async function add_cards(){
       player_filter.innerHTML = ``;
       difficulty_filter.innerHTML = ``;
 
-      const data = await fetch("/data/our-collection.json");
+      const data = await fetch("data/our-collection.json");
       collection = await data.json();
       if (!collection.length > 0){
         collection_card_wrapper.innerHTML = `<h1 style="text-align: center;">Nothing to show</h1>`
