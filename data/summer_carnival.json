@@ -3,16 +3,16 @@
 		"name": "Catan Competition",
 		"description":"Catan Championship at Shudon!",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Special Events and Contests (Limited Seats)",
-		"image": "images/catan_competition.webp"
+		"image": "imagescatan_competition.webp"
 	},
 	{
 		"name": "Dungeons & Dragons Night!",
 		"description":"Epic adventures with Dungeon Master Vagmin Mehta",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Special Events and Contests (Limited Seats)",
 		"image": "images/D&D_night.webp"
@@ -21,7 +21,7 @@
 		"name": "Blood on the Clocktower",
 		"description":"-",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Special Events and Contests (Limited Seats)",
 		"image": "images/blood_on_the_tower.webp"
@@ -30,7 +30,7 @@
 		"name": "Uwe Rosenburg(8PM onwards|No RSVP) 12/05",
 		"description":"Celebrating iconic game designer Uwe Rosenburg - strategy games",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Open Gaming Sessions (No RSVP Required)",
 		"image": "images/Uwe Rosenburg.webp"
@@ -39,7 +39,7 @@
 		"name": "Game Nights (4PM onwards|No RSVP) 11/05",
 		"description":"A wide mix of board gaming. 4PM to midnight! No RSVP required.",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Open Gaming Sessions (No RSVP Required)",
 		"image": "images/game_night.webp"
@@ -48,7 +48,7 @@
 		"name": "Ethnic Games (4PM onwards|No RSVP) 12/05",
 		"description":"A wide mix of ethnic board games from around the world. 4PM to midnigh...",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Open Gaming Sessions (No RSVP Required)",
 		"image": "images/Ethnic Games.webp"
@@ -57,7 +57,7 @@
 		"name": "Round the World (4-12 PM |No RSVP) 18/05",
 		"description":"Take a tour across the world with these board games | No RSVP Required",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Open Gaming Sessions (No RSVP Required)",
 		"image": "images/Round the World.webp"
@@ -66,7 +66,7 @@
 		"name": "Game Nights (4PM onwards|No RSVP) 25/05",
 		"description":"A wide mix of board gaming. 4PM to midnight! No RSVP required.",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Open Gaming Sessions (No RSVP Required)",
 		"image": "images/game_night.webp"
@@ -75,7 +75,7 @@
 		"name": "Ethnic Games (4PM onwards|No RSVP) 26/05",
 		"description":"A wide mix of ethnic board games from around the world. 4PM to midnigh...",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Open Gaming Sessions (No RSVP Required)",
 		"image": "images/Ethnic Games.webp"
@@ -84,7 +84,7 @@
 		"name": "Vlad Chvatil (8-12 PM |No RSVP) 26/05",
 		"description":"Celebrating Vladimir Chvatil's board games",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Open Gaming Sessions (No RSVP Required)",
 		"image": "images/Vlad Chvatil.webp"
@@ -93,7 +93,7 @@
 		"name": "Horror Games (4PM Onwards|No RSVP) 01/06",
 		"description":"spooookkkyyy games. 4PM to midnight! No RSVP required.",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Open Gaming Sessions (No RSVP Required)",
 		"image": "images/Vlad Chvatil.webp"
@@ -102,7 +102,7 @@
 		"name": "Game Nights (4PM onwards|No RSVP) 02/06",
 		"description":"A wide mix of board gaming. 4PM to midnight! No RSVP required.",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Open Gaming Sessions (No RSVP Required)",
 		"image": "images/game_night.webp"
@@ -111,7 +111,7 @@
 		"name": "Strategy Game(8PM Onwards|No RSVP) 02/06",
 		"description":"A wide mix of strategy board gaming. 8PM to midnight! No RSVP required.",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "₹300",
 		"category": "Open Gaming Sessions (No RSVP Required)",
 		"image": "images/Strategy Game.webp"
@@ -120,7 +120,7 @@
 		"name": "Puzzle Club (No RSVP Required) 4-8PM",
 		"description":"Puzzles @ Shudon every Monday!",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "Mon, 2 hr - ₹250",
 		"category": "Themed Sessions",
 		"image": "images/Puzzle Club.webp"
@@ -129,7 +129,7 @@
 		"name": "Horror Nights(No RSVP Required)",
 		"description":"Horror Games @ Shudon every Monday!",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "Mon, 2 hr - ₹250",
 		"category": "Themed Sessions",
 		"image": "images/Horror Nights.webp"
@@ -138,7 +138,7 @@
 		"name": "Abstract Games (No RSVP Required) 4-8PM",
 		"description":"Abstract Games @ Shudon every Tuesday!",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "Tue, 2 hr - ₹250",
 		"category": "Themed Sessions",
 		"image": "images/Abstract Games.webp"
@@ -147,7 +147,7 @@
 		"name": "Space Games (No RSVP Required) 8-12PM",
 		"description":"Space Themed Adventures @ Shudon every Tuesday!",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "Tue, 2 hr - ₹250",
 		"category": "Themed Sessions",
 		"image": "images/Space Games.webp"
@@ -156,7 +156,7 @@
 		"name": "How to Play Sessions (No RSVP Required)",
 		"description":"FREE - How to Play Sessions @ Shudon every Tuesday!",
 		"more": "Find Out More",
-		"more_link": "/catan_competition.html",
+		"more_link": "catan_competition.html",
 		"price": "Wed, 2 hr - ₹1",
 		"category": "Themed Sessions",
 		"image": "images/How to Play Sessions.webp"
